@@ -1,7 +1,4 @@
 
-
-Berikut adalah contoh README.md dengan logo dan cara install:
-```markdown
 # Portofolio Saya
 ====================
 
@@ -58,8 +55,4 @@ Proyek ini dilisensikan di bawah lisensi MIT.
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau ingin menghubungi saya, silakan email saya di [alamat email Anda].
-```
-Namun perlu diingat bahwa Anda perlu mengganti `https://example.com/logo.png` dengan URL logo Anda sendiri, dan juga mengganti `https://github.com/username/portofolio.git` dengan URL repository Anda sendiri.
-
-Jangan lupa untuk membuat file `requirements.txt` yang berisi dependensi proyek Anda, sehingga orang lain dapat dengan mudah menginstal dependensi yang diperlukan.
+Jika Anda memiliki pertanyaan atau ingin menghubungi saya, silakan email saya di mochabdiefirdausridwan@gmail.com.
