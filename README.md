@@ -1,4 +1,11 @@
+
+
+Berikut adalah contoh README.md dengan logo dan cara install:
+```markdown
 # Portofolio Saya
+====================
+
+[![Logo](https://example.com/logo.png)](https://example.com)
 
 Portofolio ini dibuat untuk menampilkan karya-karya saya sebagai seorang web developer. Proyek ini menggunakan teknologi modern seperti Python, Flask, dan Tailwind CSS.
 
@@ -19,10 +26,27 @@ Portofolio ini dibuat untuk menampilkan karya-karya saya sebagai seorang web dev
 
 ## Instalasi
 
-1. Clone repository ini ke komputer Anda
-2. Instal dependensi dengan menjalankan perintah `pip install -r requirements.txt`
-3. Jalankan aplikasi dengan menjalankan perintah `flask run`
-4. Buka browser dan akses `http://localhost:5000` untuk melihat portofolio
+### Langkah 1: Clone Repository
+
+```bash
+git clone https://github.com/username/portofolio.git
+```
+
+### Langkah 2: Instal Dependensi
+
+```bash
+pip install -r requirements.txt
+```
+
+### Langkah 3: Jalankan Aplikasi
+
+```bash
+flask run
+```
+
+### Langkah 4: Buka Browser
+
+Buka browser dan akses `http://localhost:5000` untuk melihat portofolio
 
 ## Kontribusi
 
@@ -35,3 +59,7 @@ Proyek ini dilisensikan di bawah lisensi MIT.
 ## Kontak
 
 Jika Anda memiliki pertanyaan atau ingin menghubungi saya, silakan email saya di [alamat email Anda].
+```
+Namun perlu diingat bahwa Anda perlu mengganti `https://example.com/logo.png` dengan URL logo Anda sendiri, dan juga mengganti `https://github.com/username/portofolio.git` dengan URL repository Anda sendiri.
+
+Jangan lupa untuk membuat file `requirements.txt` yang berisi dependensi proyek Anda, sehingga orang lain dapat dengan mudah menginstal dependensi yang diperlukan.
