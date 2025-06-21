@@ -1,8 +1,7 @@
 
 # Portofolio Saya
-====================
 
-[![Logo](https://example.com/logo.png)](https://example.com)
+====================
 
 Portofolio ini dibuat untuk menampilkan karya-karya saya sebagai seorang web developer. Proyek ini menggunakan teknologi modern seperti Python, Flask, dan Tailwind CSS.
 
